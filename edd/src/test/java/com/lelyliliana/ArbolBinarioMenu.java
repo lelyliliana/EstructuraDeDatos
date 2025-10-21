@@ -4,7 +4,8 @@ import java.util.*;
 
 /**
  * Programa de consola para gestionar un Árbol Binario de Búsqueda (BST) de enteros.
- * Operaciones: crear (vaciar/cargar), insertar, eliminar, buscar y recorridos (inorden, preorden, postorden).
+ * Operaciones: crear (vaciar/cargar), insertar, eliminar, buscar y recorridos
+ * (inorden, preorden, postorden).
  * Autor: Leli :)
  */
 public class ArbolBinarioMenu {
