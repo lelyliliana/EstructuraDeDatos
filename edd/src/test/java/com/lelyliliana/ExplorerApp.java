@@ -22,6 +22,7 @@ import java.util.*;
  *  - Hash: exacto muy rápido; no mantiene orden ni hace prefijos sin escaneo.
  */
 public class ExplorerApp {
+    //Clase principal 
 
     // ===================== Dominio =====================
     static class MediaItem implements Serializable {
@@ -32,6 +33,7 @@ public class ExplorerApp {
         String region;
         Integer anio;              // opcional
 
+        //constructor
         MediaItem(int id, String titulo, String artista, String genero, String region, Integer anio) {
             this.id = id;
             this.titulo = titulo;
